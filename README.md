@@ -1,2 +1,2 @@
 # My-first-Repo
-It is training ground.
+It is a training ground.
